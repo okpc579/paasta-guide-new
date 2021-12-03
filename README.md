@@ -1,6 +1,6 @@
 ### Index
 
-## PaaS-TA 가이드 문서 (v5.5.4)
+## PaaS-TA 가이드 문서 (v6.0.0)
 - Application Platform (AP)  
   - [아키텍처](https://github.com/okpc579/paasta-ap-guide-new/blob/main/architecture/README.md)  
   - [설치 가이드](https://github.com/okpc579/paasta-ap-guide-new/blob/main/install/README.md)  
